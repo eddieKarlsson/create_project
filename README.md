@@ -1,5 +1,5 @@
 # Create Project
-## Creates project tree and renames files from template, edits predefined cells in excel workbooks.
+## Creates project tree and renames files from template, edits projno and projname cells in excel workbooks.
 
 Requirements:
 1. pip install editpyxl
