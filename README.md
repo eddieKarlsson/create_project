@@ -2,7 +2,7 @@
 ## Creates project tree and renames files from template, edits predefined cells in excel workbooks.
 
 Requirements:
-1. pip install openpyxl
+1. pip install editpyxl
 2. Template project
 
 Commandline argument:
